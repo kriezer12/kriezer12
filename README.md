@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/kriezer12/kriezer12/output/snake.svg" alt="Snake animation" />
-
-###
